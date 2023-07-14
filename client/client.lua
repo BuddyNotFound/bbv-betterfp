@@ -12,7 +12,7 @@ function PC(cam)
     local head = GetPedBoneCoords(PlayerPedId(),31086)
     local fv = GetEntityForwardVector(PlayerPedId()) * 0.2
     SetCamCoord(cam, head.x + fv.x, head.y + fv.y, head.z + fv.z)
-    PointCamAtCoord(cam, head.x + fv.x, head.y + fv.y, head.z + fv.z)
+    PointCamAtCoord(cam, head.x + fv.x * 2, head.y + fv.y * 2, head.z + fv.z)
     SetCamRot(cam, camRX, camRY, camRZ)
     SetCamFov(cam, camF)
     SetFollowPedCamViewMode(4) -- making sure other wise its weird and glitchy
