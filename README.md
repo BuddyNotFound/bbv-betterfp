@@ -1,5 +1,7 @@
 # bbv-betterfp
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G0N78P7)
+
 ![6175ecb9a57eff0254e982e231e2678f127a925d](https://github.com/BuddyNotFound/bbv-betterfp/assets/74051918/6288fcbd-c387-4ffb-a813-8558b344584d)
 
 
